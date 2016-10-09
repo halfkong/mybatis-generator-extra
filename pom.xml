@@ -6,7 +6,14 @@
 
     <groupId>com.shzisg</groupId>
     <artifactId>mybatis-generator-extra</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.mybatis.generator</groupId>
+            <artifactId>mybatis-generator-core</artifactId>
+            <version>1.3.4</version>
+        </dependency>
+    </dependencies>
 
 </project>
